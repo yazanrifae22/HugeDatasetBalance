@@ -48,12 +48,6 @@ Make sure you have the following prerequisites installed:
 - NumPy
 - Termcolor
 
-You can install these dependencies using `pip`:
-
-```bash
-pip install opencv-python numpy termcolor
-## Dataset Balancing - Before and After
-
 ### Before Dataset Balancing
 
 ![Before Dataset Balancing](https://raw.githubusercontent.com/yazanrifae22/HugeDatasetBalance/master/images/before_databalance.png)
@@ -61,3 +55,11 @@ pip install opencv-python numpy termcolor
 ### After Dataset Balancing
 
 ![After Dataset Balancing](https://raw.githubusercontent.com/yazanrifae22/HugeDatasetBalance/master/images/after_dataset_balance.png)
+
+You can install these dependencies using `pip`:
+
+```bash
+pip install opencv-python numpy termcolor
+## Dataset Balancing - Before and After
+
+
