@@ -54,7 +54,7 @@ Make sure you have the following prerequisites installed:
 First, clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/yazanrifae22/HugeDatasetBalance.git
 cd your-repo-name
 ```
 
