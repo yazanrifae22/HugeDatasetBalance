@@ -47,6 +47,16 @@ Make sure you have the following prerequisites installed:
 - OpenCV
 - NumPy
 - Termcolor
+## Usage
+
+### 1. Clone the Repository
+
+First, clone this repository to your local machine using Git:
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+
 
 ### Before Dataset Balancing
 
