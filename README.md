@@ -41,13 +41,14 @@ The Dataset Augmentation and Labeling Toolkit is a collection of Python scripts 
 
 ### Prerequisites
 
+Make sure you have the following prerequisites installed:
+
 - Python 3.x
-- Required Python libraries (dependencies listed in individual scripts)
+- OpenCV
+- NumPy
+- Termcolor
 
-### Installation
+You can install these dependencies using `pip`:
 
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/dataset-augmentation-toolkit.git
-   cd dataset-augmentation-toolkit
+```bash
+pip install opencv-python numpy termcolor
