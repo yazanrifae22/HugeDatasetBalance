@@ -14,8 +14,7 @@
   - [Delete Unlabeled Images](#delete-unlabeled-images)
   - [Filter Small Images](#filter-small-images)
   - [Balancing and Augmenting Data](#balancing-and-augmenting-data)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
